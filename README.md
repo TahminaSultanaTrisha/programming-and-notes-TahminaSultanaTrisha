@@ -2,10 +2,10 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20823325)
 # Computer Programming: Portfolio
 
-## CHANGE THIS HEADING TO YOUR NAME
+## Tahmina Sultana Trisha
 
-### CHANGE THIS HEADING TO YOUR GROUP (e.g. CS4A, FS4D)
-### CHANGE THIS HEADING TO YOUR TUTOR'S FULL NAME
+### CS4D
+### Tony Jenkins
 
 By submitting this work you are confirming that the work in this repo is your own. 
 
