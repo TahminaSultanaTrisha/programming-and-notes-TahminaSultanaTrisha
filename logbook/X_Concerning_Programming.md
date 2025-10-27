@@ -68,7 +68,7 @@ print("Greetings, " + name + "! It is good to meet you!")
 
 ---
 
-## 💱 Currency Conversion Example (Python)
+## 💱 Currency Conversion Example (Python):
 
 ```python
 EXCHANGE_RATE = 0.84
@@ -84,7 +84,7 @@ else:
 
 ---
 
-## 🧠 Why Experience Matters
+## 🧠 Why Experience Matters:
 
 Programming is not just taught—it’s earned.
 
@@ -96,8 +96,7 @@ Programming is not just taught—it’s earned.
 
 ---
 
-## 🧠 Bonus Tips for Aspiring Programmers
-
+## 🧠 Bonus Tips for Aspiring Programmers:
 - Start small: calculators, quizzes, converters
 - Read code: explore GitHub projects
 - Use pseudocode: plan before you write
