@@ -23,7 +23,7 @@ A **program** is a set of instructions that a computer follows to perform tasks.
 
 ---
 
-## 🧩 Instructions: The Language of Logic
+## 🧩 Instructions: The Language of Logic:
 
 Programming instructions must be:
 - **Unambiguous** – Computers don’t guess.
