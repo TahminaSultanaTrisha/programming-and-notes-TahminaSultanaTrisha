@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🧠 Concerning Programming: Mastering the Foundations                                                              this is my notesa
 
 ## 📘 Overview
