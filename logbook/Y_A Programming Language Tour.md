@@ -19,7 +19,7 @@ Imagine a smartphone that only makes calls — useful, but limited. Now imagine 
 
 ---
 
-## 🕰️ Historical Foundations of Programming
+## 🕰️ Historical Foundations of Programming:
 
 > “You have to know the past to understand the present.” – Carl Sagan  
 > “The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.” – Ada Lovelace
