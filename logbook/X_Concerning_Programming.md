@@ -2,7 +2,7 @@
 ---
 
 
-# 🧠 Concerning Programming: Mastering the Foundations                                                              this is my notesa
+# 🧠 Concerning Programming: Mastering the Foundations                                                              
 
 ## 📘 Overview
 This guide introduces the core principles of programming through practical examples and timeless insights. It’s designed to help you think like a programmer, not just write code.
