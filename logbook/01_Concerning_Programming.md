@@ -9,7 +9,7 @@ This guide introduces the core principles of programming through practical examp
 
 ---
 
-## 🧾 What Is a Program?
+## 🧾 What Is a Program?:
 
 A **program** is a set of instructions that a computer follows to perform tasks.
 
