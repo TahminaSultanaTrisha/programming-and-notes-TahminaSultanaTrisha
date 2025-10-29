@@ -6,7 +6,7 @@
 
 ---
 
-##  Why Do We Program Computers?
+## Why Do We Program Computers?
 
 Imagine a smartphone that only makes calls — useful, but limited. Now imagine one that runs apps, browses the web, plays music, and controls smart devices. That’s the power of programming.
 
