@@ -1,5 +1,5 @@
 
-# Computer Programming: Computers and Instructions - Enhanced Notes
+# 3. Computer Programming: Computers and Instructions - Enhanced Notes
 
 ## 1. Introduction to Python
 
@@ -14,11 +14,11 @@
 | Experimentation | Not memory efficient |
 | Easy to learn |  |
 
-### 🔍 Deep Dive
+###  Deep Dive
 - **High-level** = No direct memory management (unlike C/C++)
 - **Interpreted** = Code executes line-by-line (flexible but slower than compiled languages)
 
-### 🧠 Mnemonic: "Python P.R.I.D.E."
+###  Mnemonic: "Python P.R.I.D.E."
 - **P**rototyping-friendly
 - **R**apid development  
 - **I**nterpreted
@@ -32,7 +32,7 @@
 ### Core Components
 ```
 ┌─────────────┐    ┌──────────┐    ┌──────────┐
-│    CPU      │    │  Memory  │    │ I/O Module│
+│    CPU      │    │  Memory  │    │I/O Module│
 │ ┌─────────┐ │    │          │    │          │
 │ │ PCU     │ │    │ Program  │    │  Input   │
 │ │ ALU     │ │◄──►│   &      │◄──►│  Output  │
@@ -52,7 +52,7 @@
 - **Buses**: Data transfer pathways
 - **I/O Module**: Handles input/output
 
-### 🏗️ Kitchen Analogy
+###  Kitchen Analogy
 | Component | Kitchen Equivalent |
 |-----------|-------------------|
 | CPU | Chef |
@@ -91,7 +91,7 @@ Address    Value       Type
 0x00000005 0b00000000  None (terminator)
 ```
 
-### 🧠 Mnemonic: "Variables are Labels"
+###  Mnemonic: "Variables are Labels"
 - **Name** = Label on mailbox
 - **Address** = Physical mailbox location  
 - **Value** = Letter inside mailbox
@@ -107,12 +107,12 @@ Address    Value       Type
 | Float | Limited precision and size |
 | String | Limited by available memory |
 
-### 🔍 Bit Limits Deep Dive
+###  Bit Limits Deep Dive
 - **8-bit integer**: -128 to 127
 - **32-bit integer**: ~-2.1 billion to ~2.1 billion  
 - **64-bit integer**: ~±9.2 quintillion
 
-### ⚠️ Performance Warning
+### ⚠ Performance Warning
 Processing large files (e.g., 1GB log files) can challenge memory limits!
 
 ---
@@ -125,7 +125,7 @@ Processing large files (e.g., 1GB log files) can challenge memory limits!
 3. **Instructions encoded as binary** values
 4. **ALU executes** basic operations
 
-### 🧠 Mnemonic: "PC Points to Next Chapter"
+###  Mnemonic: "PC Points to Next Chapter"
 Program Counter = Bookmark in recipe book, always pointing to next step.
 
 ---
@@ -142,7 +142,7 @@ The ALU can only perform fundamental operations - complex tasks are built from t
 | Multiplication | Repeated addition |
 | Division | Repeated subtraction |
 
-### 🧠 Mnemonic: "ALU's SAN"
+###  Mnemonic: "ALU's SAN"
 - **S**ubtract via Add+Negate
 - **A**dd (directly)  
 - **N**egate (for creating negatives)
@@ -155,7 +155,7 @@ The ALU can only perform fundamental operations - complex tasks are built from t
 | Greater Than | `(A - B) > 0` |
 | Even/Odd | Check `(number % 2) == 0` |
 
-### 🔍 Deep Dive
+###  Deep Dive
 This is exactly how **assembly language** works! Programmers combine basic CPU instructions.
 
 ---
@@ -174,11 +174,11 @@ This is exactly how **assembly language** works! Programmers combine basic CPU i
 - **Result**: Runs but incorrect output
 - **Example**: Wrong formula, incorrect condition
 
-### 🧠 Mnemonic: "Syntax vs. Logic"
+###  Mnemonic: "Syntax vs. Logic"
 - **Syntax Error** = Grammar mistake ("I are hungry")
 - **Logic Error** = Factual mistake ("The sky is green")
 
-### 🏗️ Cooking Analogy
+### Cooking Analogy
 | Error Type | Cooking Equivalent |
 |------------|-------------------|
 | Syntax Error | "Add 2 cups flour" (missing what to do) |
@@ -186,7 +186,7 @@ This is exactly how **assembly language** works! Programmers combine basic CPU i
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 1. **Abstraction is Powerful**: Python hides hardware complexity
 2. **Everything is Binary**: Data, instructions, addresses = 1s and 0s  
