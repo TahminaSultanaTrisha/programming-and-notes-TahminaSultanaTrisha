@@ -1,7 +1,7 @@
 
 ---
 
-# A Programming Languages Tour– Master Study Guide  
+# 2. A Programming Languages Tour– Master Study Guide  
 **Computer Programming 2: 30th September & 2nd October 2025**
 
 ---
