@@ -31,10 +31,10 @@ Programming instructions must be:
 - **Exact** – Even a missing comma can break a program.
 
 ###  Real-Life Analogies:
-- Recipe for cake 🍰  
-- IKEA assembly guide 🪑  
-- GPS directions 🗺️  
-- README file on GitHub 💻  
+- Recipe for cake  
+- IKEA assembly guide   
+- GPS directions 
+- README file on GitHub   
 
 ---
 
@@ -48,7 +48,7 @@ Programming instructions must be:
 
 ---
 
-## 🧑‍💻Programming Is a Skill You Build
+## Programming Is a Skill You Build
 
 - You learn by doing, not just by watching.
 - Books and lectures help—but **practice is essential**.
