@@ -1,5 +1,5 @@
 
-# Computer Programming: A Programmer's Work - Master Notes
+# 4. A Programmer's Work - Master Notes
 
 Notes from Lectures; Date: October 14th & 16th, 2025  
 
