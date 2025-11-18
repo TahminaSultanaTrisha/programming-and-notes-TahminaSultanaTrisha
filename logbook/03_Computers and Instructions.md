@@ -1,5 +1,6 @@
 
-# 3. Computer Programming: Computers and Instructions - Enhanced Notes
+# 3. Computers and Instructions 
+**Computer Programming Notes 3 : 7th October 2025**
 
 ## 1. Introduction to Python
 
@@ -178,11 +179,6 @@ This is exactly how **assembly language** works! Programmers combine basic CPU i
 - **Syntax Error** = Grammar mistake ("I are hungry")
 - **Logic Error** = Factual mistake ("The sky is green")
 
-### Cooking Analogy
-| Error Type | Cooking Equivalent |
-|------------|-------------------|
-| Syntax Error | "Add 2 cups flour" (missing what to do) |
-| Logic Error | "Add 2 cups salt instead of sugar" |
 
 ---
 
@@ -195,4 +191,3 @@ This is exactly how **assembly language** works! Programmers combine basic CPU i
 
 
 ---
-*Notes from: Computer Programming 3 - Computers and Instructions (7th & 9th October 2025)*
