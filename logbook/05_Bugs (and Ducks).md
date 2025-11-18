@@ -1,6 +1,6 @@
-# 5. Bugs (and Ducks) - Master Notes
+# 5. Bugs (and Ducks) 
 
-**Notes from Lecture;Date:** October 23rd, 2025  
+**Computer Programming Notes 5: 23rd October 2025** 
 
 
 ---
@@ -188,6 +188,3 @@ def debug_with_duck(problem, duck):
 
 ---
 
-**Final Thought:** Debugging isn't failure - it's an essential part of the programming craft. Embrace the duck! 
-
-*Notes created from "Computer Programming 5: Bugs (and Ducks)" presentation materials.*
