@@ -2,10 +2,8 @@
 ---
 
 
-# 1. Concerning Programming: Mastering the Foundations                                                              
-
-##  Overview
-This guide introduces the core principles of programming through practical examples and timeless insights. It’s designed to help you think like a programmer, not just write code.
+# 1. Concerning Programming
+**Computer Programming Notes 1: 23rd September 2025**
 
 ---
 
@@ -45,16 +43,11 @@ Programming instructions must be:
 | Sequence      | Steps executed in order                    | Boil water → Add tea → Pour      |
 | Selection     | Conditional logic                          | If raining, take umbrella        |
 | Repetition    | Looping until a condition is met           | Stir soup until it boils         |
+ 
+
 
 ---
 
-## Programming Is a Skill You Build
-
-- You learn by doing, not just by watching.
-- Books and lectures help—but **practice is essential**.
-- Programming is like learning to swim: you must jump in.
-
----
 
 ##  Reading Code Is Just as Important
 
@@ -92,16 +85,7 @@ Programming is not just taught—it’s earned.
 - Senior developers are faster because they’ve seen more patterns.
 - Experience builds confidence, creativity, and resilience.
 
-> “You need to go through the experience, and then you’ll be able to help others. That’s the only way to learn programming.”
+
 
 ---
 
-##   Tasks for Aspiring Programmers:
-
-- Start small: calculators, quizzes, converters
-- Read code: explore GitHub projects
-- Use pseudocode: plan before you write
-- Practice daily—even 20 minutes helps
-- Debug often: errors are your best teachers
-
----
