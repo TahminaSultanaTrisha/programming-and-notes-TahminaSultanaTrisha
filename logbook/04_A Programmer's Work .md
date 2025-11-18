@@ -1,10 +1,11 @@
 
-# 4. A Programmer's Work - Master Notes
+# 4. A Programmer's Work 
 
-Notes from Lectures; Date: October 14th & 16th, 2025  
+**Computer Programming Notes 4: 14th October 2025**
 
 
 ---
+
 
 ## 1. The Programmer's Mindset & Reality
 
@@ -12,7 +13,6 @@ Notes from Lectures; Date: October 14th & 16th, 2025
 - **Definition:** "An organic device for turning caffeine into code" - Highlights problem-solving focus and intense work periods
 - **Core Reality:** Programming is a **team sport**, not a solo activity
 
-### Educational Support & Mnemonics:
 
 ####  **Mnemonic for Programmer Traits: C.O.D.E.**
 - **C**ollaborative
@@ -38,7 +38,6 @@ Notes from Lectures; Date: October 14th & 16th, 2025
 - **Platforms:** GitHub
 - **Emerging:** AI Assistants
 
-### Educational Support & Mnemonics:
 
 ####  **Mnemonic for Tool Selection: C.H.O.O.S.E.**
 - **C**ost & Availability
