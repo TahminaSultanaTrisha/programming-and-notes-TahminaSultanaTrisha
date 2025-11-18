@@ -1,17 +1,16 @@
 
 ---
 
-# 2.A Programming Languages Tour– Master Study Guide  
-**Computer Programming 2: 30th September & 2nd October 2025**
+# 2. A Programming Languages Tour
+**Computer Programming Notes 2: 30th September 2025**
 
 ---
 
 ## Why Do We Program Computers?
 
-Imagine a smartphone that only makes calls — useful, but limited. Now imagine one that runs apps, browses the web, plays music, and controls smart devices. That’s the power of programming.
 
-- **Fixed-function computers**: Designed for one task (e.g., calculators, washing machines).
-- **Programmable computers**: Can be reconfigured to perform many tasks — from gaming to data analysis.
+- **Fixed-function computers**: Designed for one task .
+- **Programmable computers**: Can be reconfigured to perform many tasks from gaming to data analysis.
 
 > Mnemonic: **P.U.R.E.** – *Programmable, Useful, Reusable, Efficient*
 
@@ -56,7 +55,7 @@ Think of a computer as a city:
 ##  First Generation Programming – The Age of Wires
 
 - **Manual programming**: Using physical switches, punch cards, or plugboards.
-- **Machine-specific**: No standardization — each computer had its own quirks.
+- **Machine-specific**: No standardization ; each computer had its own quirks.
 - **Tedious and error-prone**: Required deep hardware knowledge.
 
 > Mnemonic: **W.I.R.E.** – *Wired, Individualized, Rigid, Error-prone*
@@ -161,13 +160,5 @@ Every programming language boils down to three core ideas:
 
 ---
 
-##  Final Thought – The Language of Logic
 
-> “Once you know one language, maybe you know them all?”
-
-Learning programming is like learning to cook. Once you understand ingredients (data), recipes (algorithms), and techniques (syntax), you can switch cuisines (languages) with ease.
-
-> Mnemonic: **L.O.G.I.C.** – *Learn Once, Grow In Code*
-
----
 
