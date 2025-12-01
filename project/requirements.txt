@@ -1,0 +1,23 @@
+# No external dependencies required
+# Python 3.6+ standard library is sufficient
+
+# This chatbot uses only built-in Python modules:
+# - random (for jokes and variations)
+# - re (regular expressions for text processing)
+# - json (for intents.json file)
+# - os (for file operations)
+# - argparse (for command line arguments)
+# - datetime (for timestamps)
+
+# Python Standard Library modules used:
+# random, re, json, os, argparse, datetime
+
+# To run this chatbot, you only need Python installed.
+# No need to run 'pip install' for any packages.
+
+# If you want to add external packages later (like for real weather API),
+# you would add them here. For example:
+# requests>=2.25.1
+# numpy>=1.21.0
+
+# But for now, no external packages are needed!
