@@ -1,7 +1,7 @@
 
 # 8. Programming Properly: DRY and WET
 
-**Computer Programming Notes 7: 20th November 2025**
+**Computer Programming Notes 8: 20th November 2025**
 
 ---
 
