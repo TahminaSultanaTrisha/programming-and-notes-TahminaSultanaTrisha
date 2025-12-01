@@ -1,0 +1,6 @@
+medical disclaimer: I am an AI assistant and cannot provide medical diagnosis. Always consult healthcare professionals.
+symptoms: Common symptoms include fever, cough, headache, fatigue, sore throat, and nausea.
+weather: I can show real weather data for Leeds, London, and Manchester using weather APIs.
+math: I can perform basic calculations like addition, subtraction, multiplication, and division.
+jokes: I have a collection of family-friendly jokes to lighten the mood.
+health: Maintaining good health involves proper diet, exercise, and regular medical check-ups.
