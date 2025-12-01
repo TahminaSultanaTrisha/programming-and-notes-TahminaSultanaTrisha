@@ -252,7 +252,7 @@ if __name__ == "__main__":
     test_error_handling()
     success_count += 1  # Assuming error handling doesn't crash
 
-    # Test 3: Medical disclaimers
+    # Test 3:  Medical disclaimers
     if test_medical_disclaimer():
         success_count += 1
 
