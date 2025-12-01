@@ -1,0 +1,18 @@
+{
+  "greeting": {
+    "patterns": ["hello", "hi", "hey", "good morning", "good afternoon"],
+    "responses": ["Hello! Welcome to Medical Assistant ChatBot!"]
+  },
+  "goodbye": {
+    "patterns": ["bye", "goodbye", "see you", "exit", "quit"],
+    "responses": ["Goodbye! Take care and stay healthy!"]
+  },
+  "thanks": {
+    "patterns": ["thanks", "thank you", "thank you so much"],
+    "responses": ["You're welcome! I'm here to help!"]
+  },
+  "restart": {
+    "patterns": ["restart", "start over", "begin again"],
+    "responses": ["Let's start over! What's your name?"]
+  }
+}
