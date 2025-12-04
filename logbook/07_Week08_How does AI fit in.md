@@ -1,5 +1,6 @@
 
 ---
+# Week 08:
 ## 7. How does AI fit in?
 
 **Computer Programming Notes 7: 13th November 2025**
