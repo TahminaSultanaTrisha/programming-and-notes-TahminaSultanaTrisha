@@ -5,7 +5,7 @@ Here’s where I keep all the notebooks I’ve worked on so far. Some are tidy, 
 ## What’s in here?
 
 - `00_introduction_to_github.ipynb`  
-  Figuring out GitHub. Turns out, it’s not just for experts — it actually helps keep things organized and makes sharing code way easier.
+  Figuring out GitHub. Turns out, it’s not just for experts : it actually helps keep things organized and makes sharing code way easier.
 
 - `01_markdown (2).ipynb`  
   Learning Markdown. It’s a simple way to make my notes look good without wrestling with formatting.
@@ -20,7 +20,7 @@ Here’s where I keep all the notebooks I’ve worked on so far. Some are tidy, 
   Playing with tables in both Markdown and Python. It’s like building spreadsheets, but with more control.
 
 - `05_off_the_happy_path (2).ipynb`  
-  What happens when code goes sideways — and how I tried to fix it.
+  What happens when code goes sideways and how I tried to fix it.
 
 - `06_using_functions(1).ipynb`  
   Functions! Writing code I can reuse. Honestly, it finally feels like I kind of know what I’m doing.
@@ -43,4 +43,4 @@ Here’s where I keep all the notebooks I’ve worked on so far. Some are tidy, 
 
 ---
 
-All the notebooks are `.ipynb` files. I’ve also stashed a few `.txt` and `.py` files in here — some go with the notebooks, some are from exercises.
+All the notebooks are `.ipynb` files. I’ve also stashed a few `.txt` and `.py` files in here : some go with the notebooks, some are from exercises.
