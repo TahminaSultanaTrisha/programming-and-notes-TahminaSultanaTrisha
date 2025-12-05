@@ -26,7 +26,7 @@ I treated AI like a study buddy. Whenever I got stuck or curious, I’d fire off
 
  **What I Did Myself**
 
-Everything else—the coding, the writing, the decision-making : was all me. I wrote and tested the programs, hunted down bugs, and sat with what I learned. AI never gave me the final answers or did the heavy lifting. It was more like a tutor or a second set of eyes.
+Everything else:the coding, the writing, the decision-making : was all me. I wrote and tested the programs, hunted down bugs, and sat with what I learned. AI never gave me the final answers or did the heavy lifting. It was more like a tutor or a second set of eyes.
 
 If I didn’t get something the first time, I didn’t just copy-paste the AI’s answer. I’d ask more questions, rework the explanation, and make sure I actually understood it well enough to explain it myself.
 
